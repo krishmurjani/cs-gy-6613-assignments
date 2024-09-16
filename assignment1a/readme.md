@@ -1,4 +1,4 @@
-# Assignment 1A - Simulation and Clustering Techniques
+# Assignment 1A
 
 ### Course: CS-GY-6613 Artificial Intelligence - 1
 **Name:** Krish Murjani  

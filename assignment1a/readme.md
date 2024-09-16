@@ -18,9 +18,3 @@ The development environment used for this assignment is documented with relevant
 
 - `01-assignment-1.ipynb`: Jupyter Notebook implementing the simulation of multivariate normal distribution, k-means clustering, and PCA projection.
 - `Assignment-1A Screenshots.pdf`: Contains screenshots showing the setup of the development environment.
-
-## Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-url

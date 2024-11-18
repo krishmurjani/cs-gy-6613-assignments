@@ -13,5 +13,6 @@ Due to the large size of the output videos, they have been uploaded to Google Dr
 The videos showcase object detection and tracking of players and the ball in a sports setting, demonstrating the effectiveness of the implemented methods.
 
 Additionally, the overall architecture of the implemented system is rendered in the image below, providing a visual summary of the model flow and data processing pipeline:
+
 ---
 ![Architecture](02-architecture.png)
